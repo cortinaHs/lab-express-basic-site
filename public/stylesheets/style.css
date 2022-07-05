@@ -57,12 +57,10 @@ a {
     width: 80vw;
     height: 80vh;
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gandhi_reading_his_correspondence_whilst_living_in_seclusion_after_being_released_from_prison.jpg/1920px-Gandhi_reading_his_correspondence_whilst_living_in_seclusion_after_being_released_from_prison.jpg");
-    /* background-size: 80vw; */
     border-radius: 10%;
     margin: 0 10vw;
     background-repeat: no-repeat;
-    object-fit: cover;
-
+    background-size: cover;
 }
 
 #home h1 {
