@@ -27,11 +27,27 @@ a {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    flex-wrap: wrap;
+
 }
 
 #about {
     margin: 10vw;
     text-align: center;
     max-width: 80vw;
+}
+
+#works {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    }
+
+
+#works li{
+    list-style: none;
+}
+
+#works img{
+    height: 400px;
 }
